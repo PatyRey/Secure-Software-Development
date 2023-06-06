@@ -7,4 +7,4 @@ When the client is able to connect to the server side, it is commonly doing so t
 ## The Risks of a Message in Transit Within the Server/Client Relationship
 Client\server relationships possess many disadvantages. In some cases, the availability of the server can be affected by the simultaneous request by different clients. This can make the server to be overloaded with requests, resulting in congestion on the network or DoS attack. With a failing server none of the requests made by the client will be fulfilled, leading to a client-server failure.
 Other risks related to messages in transit include active attacks like impersonating another client/user or altering messages in transit between client and server. Messages in transit are also at risk of getting exposed to confidentiality threats like eavesdropping attacks, ramose ware attacks, and data theft.
-<img src="image.png">
+<img src="image2.png">
